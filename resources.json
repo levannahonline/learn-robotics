@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Build a Modern Computer from First Principles: From Nand to Tetris",
+    "url": "https://www.coursera.org/learn/build-a-computer",
+    "media": "course",
+    "difficulty": "beginner",
+    "topic": ["CS"]
+  },
+  {
+    "title": "CS50 Introduction to CS with Python",
+    "url": "https://cs50.harvard.edu/python/",
+    "media": "course",
+    "difficulty": "beginner",
+    "topic": ["CS"]
+  }
+  ,
+  {
+    "title": "Python Scripting",
+    "url": "https://www.coursera.org/projects/python-scripting",
+    "media": "course",
+    "difficulty": "intermediate",
+    "topic": ["CS"]
+  },
+  {
+    "title": "Automate the Boring Stuff with Python CS",
+    "url": "https://automatetheboringstuff.com/",
+    "media": "book",
+    "difficulty": "intermediate",
+    "topic": ["CS"]
+  },
+  {
+    "title": "Python 3 CS Specialization",
+    "url": "https://www.coursera.org/specializations/python-3-programming",
+    "media": "course",
+    "difficulty": "beginner",
+    "topic": ["CS"]
+  },
+  {
+    "title": "Computer Architecture",
+    "url": "https://www.coursera.org/learn/comparch",
+    "media": "course",
+    "difficulty": "advanced",
+    "topic": ["CS"]
+  },
+  {
+    "title": "Build a Modern Computer from First Principles: Nand to Tetris Part II ",
+    "url": "https://www.coursera.org/learn/nand2tetris2",
+    "media": "course",
+    "difficulty": "intermediate",
+    "topic": ["CS"]
+  },
+    {
+        "title": "Digital Design and Computer Architecture",
+        "url": "https://safari.ethz.ch/digitaltechnik/spring2021/doku.php?id=schedule",
+        "media": "course",
+        "difficulty": "intermediate",
+        "topic": ["EE"]
+    },
+    {
+        "title": "Operating Systems: Three Easy Pieces",
+        "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+        "media": "course",
+        "difficulty": "intermediate",
+        "topic": ["CS"]
+    },
+    {
+        "title": "The Elements of Computing Systems: Building a Modern Computer from First Principles",
+        "url": "https://www.nand2tetris.org/book",
+        "media": "book",
+        "difficulty": "beginner",
+        "topic": ["CS"]
+    },
+    {
+        "title": "Mathematics for Computer Science",
+        "url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/",
+        "media": "course",
+        "difficulty": "beginner",
+        "topic": ["maths"]
+    }  ,
+    {
+        "title": "Computer Architecture: Safari ETHZ",
+        "url": "https://safari.ethz.ch/architecture/fall2019/doku.php?id=schedule",
+        "media": "course",
+        "difficulty": "advanced",
+        "topic": ["CS"]
+    }  
+    
+  ]
