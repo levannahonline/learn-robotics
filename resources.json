@@ -70,19 +70,118 @@
         "difficulty": "beginner",
         "topic": ["CS"]
     },
-    {
-        "title": "Mathematics for Computer Science",
-        "url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/",
-        "media": "course",
-        "difficulty": "beginner",
-        "topic": ["maths"]
-    }  ,
+    
     {
         "title": "Computer Architecture: Safari ETHZ",
         "url": "https://safari.ethz.ch/architecture/fall2019/doku.php?id=schedule",
         "media": "course",
         "difficulty": "advanced",
         "topic": ["CS"]
-    }  
+    },  
+    {
+        "title": "Khan Academy Physics",
+        "url": "https://www.khanacademy.org/science/physics",
+        "media": "course",
+        "difficulty": "beginner",
+        "topic": ["physics"]
+    }, 
+    {
+        "title": "How Things Work: An Introduction to Physics",
+        "url": "https://www.coursera.org/learn/how-things-work",
+        "media": "course",
+        "difficulty": "beginner",
+        "topic": ["physics"]
+    },
+    {
+        "title": "Classical Mechanics",
+        "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+        "media": "course",
+        "difficulty": "intermediate",
+        "topic": ["physics"]
+    },
+    {
+        "title": "Khan Academy Electrical engineering",
+        "url": "https://www.khanacademy.org/science/electrical-engineering",
+        "media": "course",
+        "difficulty": "beginner",
+        "topic": ["EE"]
+    },
+    {
+        "title": "Introduction to Electronics",
+        "url": "https://www.coursera.org/learn/electronics",
+        "media": "course",
+        "difficulty": "beginner",
+        "topic": ["EE"]
+    },
+    {
+        "title": "Circuits and Electronics",
+        "url": "https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/",
+        "media": "course",
+        "difficulty": "intermediate",
+        "topic": ["EE"]
+    },
+    {
+        "title": " Khan Academy Math",
+        "url": "https://www.khanacademy.org/math",
+        "media": "course",
+        "difficulty": "beginner",
+        "topic": ["maths"]
+    }  ,
+    {
+        "title": "Introduction to Mathematical Thinking",
+        "url": "https://www.coursera.org/learn/mathematical-thinking",
+        "media": "course",
+        "difficulty": "beginner",
+        "topic": ["maths"]
+    },
+    {
+        "title": "Mathematics for Computer Science",
+        "url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/",
+        "media": "course",
+        "difficulty": "beginner",
+        "topic": ["maths"]
+    },
+    {
+        "title": "Precalculus",
+        "url": "https://www.khanacademy.org/math/precalculus",
+        "media": "course",
+        "difficulty": "intermediate",
+        "topic": ["maths"]
+    },
+    {
+        "title": "Calculus 1",
+        "url": "https://www.khanacademy.org/math/calculus-1",
+        "media": "course",
+        "difficulty": "intermediate",
+        "topic": ["maths"]
+    },
+    {
+        "title": "CS50 Introduction to Artificial Intelligence with Python",
+        "url": "https://cs50.harvard.edu/ai/2020/",
+        "media": "course",
+        "difficulty": "beginner",
+        "topic": ["robotics"]
+    },
+    {
+        "title": "Modern Robotics: Mechanics, Planning, and Control Specialization",
+        "url": "https://www.coursera.org/specializations/modernrobotics",
+        "media": "course",
+        "difficulty": "intermediate",
+        "topic": ["robotics"]
+    },
+    {
+        "title": "Introduction to Robotics (QUT)",
+        "url": "https://www.futurelearn.com/info/courses/begin-robotics/0/steps/2841",
+        "media": "course",
+        "difficulty": "beginner",
+        "topic": ["robotics"]
+    },
+    {
+        "title": "Robotics and AI",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/robotics-and-ai",
+        "media": "course",
+        "difficulty": "beginner",
+        "topic": ["robotics"]
+    }
     
   ]
